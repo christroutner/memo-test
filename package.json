@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo no tests",
-    "start": "node index.js"
+    "start": "node index.js",
+    "read-messages": "node read-messages.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   },
   "homepage": "https://github.com/christroutner/memo-test#readme",
   "dependencies": {
-    "bitbox-sdk": "^5.1.1"
+    "bitbox-sdk": "^5.1.1",
+    "memopress": "^0.1.24"
   }
 }
