@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/christroutner/memo-test/issues"
   },
-  "homepage": "https://github.com/christroutner/memo-test#readme"
+  "homepage": "https://github.com/christroutner/memo-test#readme",
+  "dependencies": {
+    "bitbox-sdk": "^5.1.1"
+  }
 }
