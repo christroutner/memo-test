@@ -18,6 +18,11 @@ util.inspect.defaultOptions = { depth: 1 };
 const ADDR = "bitcoincash:qq34qnz6527rp2szzkull8dzrkmmrnlfuq4ua74spq";
 const MNEMONIC = ""
 
+if(MNEMONIC === "") {
+  console.log(`Please add your mnemonic.`)
+  return
+}
+
 async function runTest() {
   console.log(`Sending a memo.cash message for ${ADDR}`)
   console.log(` `)

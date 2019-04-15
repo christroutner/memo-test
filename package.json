@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo no tests",
     "start": "node index.js",
-    "read-messages": "node read-messages.js"
+    "read-messages": "node read-messages.js",
+    "send-message": "node send-message.js"
   },
   "repository": {
     "type": "git",

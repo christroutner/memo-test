@@ -50,6 +50,7 @@ async function runTest() {
 
       if(msg) {
         console.log(`This TXID: ${thisTXID}`)
+        console.log(`asm: ${asm}`)
         console.log(`Message: ${msg.message}`)
         console.log(` `)
       }
