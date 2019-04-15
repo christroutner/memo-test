@@ -1,0 +1,27 @@
+{
+  "name": "memo-test",
+  "version": "1.0.0",
+  "description": "Test repo for experimenting with BITBOX and memo.cash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/memo-test.git"
+  },
+  "keywords": [
+    "bitbox",
+    "memo.cash",
+    "javascript",
+    "bitcoin",
+    "cash",
+    "bch"
+  ],
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christroutner/memo-test/issues"
+  },
+  "homepage": "https://github.com/christroutner/memo-test#readme"
+}
