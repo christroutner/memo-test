@@ -4,7 +4,8 @@
   "description": "Test repo for experimenting with BITBOX and memo.cash",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"no tests\""
+    "test": "echo no tests",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
